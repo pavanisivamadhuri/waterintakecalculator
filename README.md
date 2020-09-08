@@ -1,1 +1,1 @@
-Water Intake Calculator
+<h1>Water Intake Calculator</h1>
